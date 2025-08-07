@@ -1,7 +1,5 @@
 <img src="./images/White Minimalist Corporate Personal Profile LinkedIn Banner.png">
 
-<img src="./animated/ezgif.com-video-to-gif-converter.gif">
-
 ## 🔗 Links
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:niranjandas.dev@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+918921627502) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_das._?igsh=dG5lYXhsNWZoZWpz&utm_source=qr)
