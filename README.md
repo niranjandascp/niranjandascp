@@ -7,6 +7,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:niranjandas.dev@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+918921627502) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_das._?igsh=dG5lYXhsNWZoZWpz&utm_source=qr)
 
 ## 📌About me <img src="animated/rabbit.gif" height="30" />
+ <img src="./animated/90S Computer GIF by barth.gif" div align="right" height="80">
+
 
 #### A beginner web developer
 
