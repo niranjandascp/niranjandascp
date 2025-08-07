@@ -16,15 +16,22 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/Yo Hello GIF.gif" height="35px" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjandascp&show_icons=true&theme=radical)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=niranjandascp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center" >
+<a  href="https://github.com/niranjandascp">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niranjandascp&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjandascp&layout=compact&theme=blue-green)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niranjandascp&theme=github_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niranjandascp&theme=github_dark&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niranjandascp&theme=github_dark&exclude={exclude}" width="32.5%">
 
-<!-- ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niranjandascp&theme=github-compact)-->
+</a>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=niranjandascp&theme=discord)
+ <details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niranjandascp&theme=zenburn" >
+
+</details> 
+ </div>
 
 # 🛠️Tech Stack Skill
 
