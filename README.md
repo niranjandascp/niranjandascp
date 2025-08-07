@@ -7,8 +7,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:niranjandas.dev@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+918921627502) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niranjan_das._?igsh=dG5lYXhsNWZoZWpz&utm_source=qr)
 
 ## 📌About me <img src="animated/rabbit.gif" height="30" />
- <img src="./animated/90S Computer GIF by barth.gif" div align="right" height="200" width="300">
 
+ <img src="./animated/90S Computer GIF by barth.gif" div align="right" height="200" width="300">
 
 #### A beginner web developer
 
@@ -93,9 +93,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?flat=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?flat=for-the-badge&logo=firebase&logoColor=black)
 
-<!-- ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?flat=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?flat=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-%2300A0D1.svg?flat=for-the-badge&logo=neo4j&logoColor=white) -->
 
 ### 💻 Testing
 
@@ -105,10 +102,6 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?flat=for-the-badge&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23006DFF.svg?flat=for-the-badge&logo=hoppscotch&logoColor=white)
 
-<!-- ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?flat=for-the-badge&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/Chai-%23A30701.svg?flat=for-the-badge&logo=chai&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?flat=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-%23327A1E.svg?flat=for-the-badge&logo=cucumber&logoColor=white) -->
 
 ### 💻 DevOps
 
