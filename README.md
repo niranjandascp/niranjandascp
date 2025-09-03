@@ -1,63 +1,55 @@
 <!-- <img src="images/Github banner no pic.jpg" > -->
 
-# <img src="animated/hands.gif" height="40" /> **_Hi, I'm Abdul Vahab A A_** <img src="animated/unicorn.gif" height="40" />
+# <img src="animated/hands.gif" height="40" /> **_Hi, I'm Niranjan Das_** <img src="animated/unicorn.gif" height="40" />
 
-<img src="svgs/logo-javascript.svg" height="40" /> &nbsp; 
-<img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp; 
-<img src="images/react.png" height="40" style="margin-right:10px;" /> &nbsp; 
-<img src="svgs/next.js (2).svg" height="45" /> &nbsp; 
-<img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" /> &nbsp; 
-<img src="images/Express White.png" height="35" /> &nbsp; 
-<img src="svgs/MongoDB.svg" height="45" /> &nbsp; 
-<img src="svgs/PostgresSQL.svg" height="45" /> &nbsp; 
-<img src="svgs/Sequelize.svg" height="45" /> &nbsp; 
-<img src="svgs/Playwrite.svg" height="45" /> &nbsp; 
-<img src="svgs/Jest.svg" height="45" /> &nbsp; 
-<img src="svgs/Git.svg" height="45" /> &nbsp; 
-<img src="svgs/GitHub.svg" height="45" /> &nbsp; 
-<img src="svgs/Docker.svg" height="50" /> &nbsp; 
-<img src="svgs/Kubernetes.svg" height="45" /> &nbsp; 
-<img src="svgs/AWS.svg" height="45" /> &nbsp; 
-<img src="svgs/Powershell.svg" height="45" /> &nbsp; 
-<img src="svgs/Postman.svg" height="45" /> &nbsp; 
-<img src="svgs/Visual Studio Code (VS Code).svg" height="45" /> &nbsp; 
-<img src="svgs/Figma.svg" height="45" /> &nbsp; 
-<img src="svgs/Adobe Photoshop.svg" height="45" /> &nbsp; 
-<img src="svgs/Adobe Illustrator.svg" height="45" /> &nbsp; 
-<img src="svgs/Adobe XD.svg" height="45" /> &nbsp; 
-<img src="svgs/Adobe Premiere Pro.svg" height="45" />
-
+<img src="svgs/logo-javascript.svg" height="40" /> &nbsp;
+<img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp;
+<img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" /> &nbsp;
+<img src="images/Express White.png" height="35" /> &nbsp;
+<img src="svgs/MongoDB.svg" height="45" /> &nbsp;
+<img src="svgs/PostgresSQL.svg" height="45" /> &nbsp;
+<img src="svgs/Sequelize.svg" height="45" /> &nbsp; <img src="svgs/Jest.svg" height="45" /> &nbsp;
+<img src="svgs/Git.svg" height="45" /> &nbsp;
+<img src="svgs/GitHub.svg" height="45" /> &nbsp;
+<img src="svgs/Docker.svg" height="50" /> &nbsp;
+<img src="svgs/AWS.svg" height="45" /> &nbsp;
+<img src="svgs/Powershell.svg" height="45" /> &nbsp;
+<img src="svgs/Postman.svg" height="45" /> &nbsp;
+<img src="svgs/Visual Studio Code (VS Code).svg" height="45" /> &nbsp;
+<img src="svgs/Figma.svg" height="45" /> &nbsp;
+<img src="images/react.png" height="40" style="margin-right:10px;" /> &nbsp;
+<img src="svgs/next.js (2).svg" height="45" /> &nbsp;
 
 ## 🔗 Links
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:abdulvahabaa916@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)
+[![Portfolio](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:niranjandas.dev@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+918921627502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjandascp)
 
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/abdulvahabaa/) -->
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/niranjandascp/) -->
 
-## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
+## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=niranjandascp&pretty=true)](https://visitcount.itsvg.in)
 
 <div  >
-<a  href="https://github.com/abdulvahabaa">
+<a  href="https://github.com/niranjandascp">
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulvahabaa&theme=2077" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulvahabaa&theme=2077&exclude={exclude}" width="32.5%" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niranjandascp&theme=2077" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niranjandascp&theme=2077&exclude={exclude}" width="32.5%" >
 </div>
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulvahabaa&theme=2077&exclude={exclude}" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulvahabaa&theme=2077&utcOffset=+05.30" width="32.5%" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niranjandascp&theme=2077&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niranjandascp&theme=2077&utcOffset=+05.30" width="32.5%" >
 </div>
 </a>
 <!-- <details> -->
   <!-- <summary>More stats</summary> -->
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulvahabaa&theme=2077" >
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niranjandascp&theme=2077" >
 <!-- </details> -->
 </div>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=niranjandascp&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Tech Stack Skills
 
@@ -187,4 +179,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a> -->
 
-[![](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=niranjandascp&pretty=true)](https://visitcount.itsvg.in)
