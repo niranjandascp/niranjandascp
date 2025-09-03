@@ -24,7 +24,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Portfolio](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:niranjandas.dev@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+918921627502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjandascp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2334A853.svg?style=social&logo=google-chrome)](https://niranjandascp.github.io/Portfolio/) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:niranjandas.dev@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+918921627502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjandascp)
 
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/niranjandascp/) -->
 
@@ -57,7 +57,6 @@
 
 ![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=plastic&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%2307405e.svg?style=plastic&logo=Linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_linux-%23404d59.svg?style=plastic&logo=Kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?style=plastic&logo=ubuntu&logoColor=white)
 
 #### 💻 Languages
@@ -67,7 +66,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300C1D4.svg?style=plastic&logo=sql&logoColor=white)
@@ -85,25 +83,18 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=plastic&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=plastic&logo=socketdotio&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=plastic&logo=reactquery&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=plastic&logo=eslint&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=plastic&logo=jsonwebtokens&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=plastic&logo=chartdotjs&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=plastic&logo=styled-components&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-%23FF4785.svg?style=plastic&logo=storybook&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=plastic&logo=axios&logoColor=white)
-![Lodash](https://img.shields.io/badge/Lodash-%23273230.svg?style=plastic&logo=lodash&logoColor=white)
-![Moment.js](https://img.shields.io/badge/Moment.js-%23000000.svg?style=plastic&logo=momentdotjs&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-%237952B3.svg?style=plastic&logo=Zod&logoColor=white)
 
 #### 💻 Back-End Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%23E34F26.svg?style=plastic&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=black)
 ![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=plastic&logo=nodemon&logoColor=white)
@@ -119,14 +110,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black)
 
-<!-- ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=plastic&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=plastic&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-%2300A0D1.svg?style=plastic&logo=neo4j&logoColor=white) -->
-
 #### 💻 Testing
 
-![Playwright](https://img.shields.io/badge/Playwright-%23004A71.svg?style=plastic&logo=playwright&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182.svg?style=plastic&logo=jasmine&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=plastic&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23006DFF.svg?style=plastic&logo=hoppscotch&logoColor=white)
@@ -147,8 +132,6 @@
 ![Framer](https://img.shields.io/badge/Framer-%23759CFC.svg?style=plastic&logo=framer&logoColor=black)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-%23FF0000.svg?style=plastic&logo=adobeacrobatreader&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-%2331A8FF.svg?style=plastic&logo=adobelightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-%239999FF.svg?style=plastic&logo=adobepremierepro&logoColor=white)
 
 #### 💻 Development Tools
 
